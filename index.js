@@ -28,7 +28,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Contribution - people who contributed ',
+        message: 'Who would you like to credit for contributing to this project?',
     },
     {
         type: 'input',

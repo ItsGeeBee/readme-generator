@@ -1,10 +1,9 @@
 
-  
-  # tes
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  # Readme Generator
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Description
-  yesy
+  Create a read me generator using inquirer package and node js. Program will ask a series of questions that will be complied into a READme.md file.
 
   ## Table of Contents
 
@@ -17,20 +16,20 @@
   - [Questions](#questions)
 
   ## Installation
-  wefsdfc
+  Fork and clone repository 
 
   ## Usage
-  wefsd
+  enter 'node index.js' to start question prompts
 
   ## Contribution
-  wefasdv
+  N/A
 
-  ##Tests
-  wefasdv
+  ## Tests
+  N/A
 
   ## License
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
   ## Questions
-  For any questions in relation to this project please email me at: fewasdv. To view more please visit my GitHub at[ewfasdv](https://github.com/ewfasdv/).
+  If you have questions in relation to this projetc, please contact me at: gracelbrown@hotmail.com. To view more of my work, please visit my GitHub at[ItsGeeBee/readme-generator](https://github.com/ItsGeeBee/readme-generator/).
   
