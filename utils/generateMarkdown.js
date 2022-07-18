@@ -1,4 +1,4 @@
-
+// function to assign badge to match user's selection 
 function renderLicenseBadge(license) {
   if (!license) {
     return '';
@@ -21,7 +21,7 @@ function renderLicenseBadge(license) {
 };
 
 
-// TODO: Create a function to generate markdown for README
+// function to generate markdown for README
 function generateMarkdown(data) {
   return `
   # ${data.title}
